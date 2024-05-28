@@ -66,8 +66,8 @@ h1 {
 
 /* Footer Section */
 footer {
-  background-color: #333; /* Dark background color */
-  color: #fff; /* Light text color */
+  background-color: #353434; /* Dark background color */
+  color: #f4f2f2; /* Light text color */
   padding: 20px; /* Add some padding for better spacing */
 }
 
@@ -112,6 +112,17 @@ footer {
   width: 30px; /* Set the width of social icons */
   height: auto; /* Maintain aspect ratio */
 }
+
+
+.google-map {
+  max-width: 400px; /* Limit the width of the map */
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  position: relative; /* Position the container relative to its parent */
+
+}
+
 
 .footer-bottom {
   text-align: center;
