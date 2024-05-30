@@ -205,7 +205,7 @@ footer {
 .php-email-form .sent-message.active {
   display: block;
 }
-/* Media Query for smaller screens */
+/* Media Query for smaller screens Google map */
 @media (max-width: 768px) {
   .google-map iframe {
     width: 100%;
